@@ -699,6 +699,16 @@ bf90a6 location BBHAY0398
 935b5a location BBHAY0403
 
 ## tuning
+# generated on Jul 19 2019 03:54:33 utc
+956bc8 maxwatts 1125 # 10.0.63.104
+3aaaa4 maxwatts 1125 # 10.0.64.57
+e96240 maxwatts 1225 # 10.0.63.125
+ae0bc3 maxwatts 1000 # 10.0.63.87
+956bc8 rebootasic 1563508473 # 10.0.63.104
+3aaaa4 rebootasic 1563508473 # 10.0.64.57
+e96240 rebootasic 1563508473 # 10.0.63.125
+ae0bc3 rebootasic 1563508473 # 10.0.63.87
+
 #Bad Fan 1st BATCH
 19b781 maxwatts 1000
 a9f649 maxwatts 1100
